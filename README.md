@@ -16,10 +16,10 @@
 
 **Выполнение**
 
-[Dockerfile](https://github.com/Terekhov-AS/Containerization-Seminar_4/blob/main/Dockerfile)
+[Dockerfile](https://github.com/Yauheni-zxc/containerization4/blob/main/docker)
 
 
-[Python-файл](https://github.com/Terekhov-AS/Containerization-Seminar_4/blob/main/task4.py)
+[Python-файл](https://github.com/Yauheni-zxc/containerization4/blob/main/task4.py)
 
 ![команда для контейнеризации Linux](https://github.com/Yauheni-zxc/containerization4/blob/main/skrins/02-08-35.png)
 ![команда для контейнеризации Linux](https://github.com/Yauheni-zxc/containerization4/blob/main/skrins/02-09-34.png)
